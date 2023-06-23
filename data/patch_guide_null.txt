@@ -1,0 +1,17 @@
+https://www.googletagmanager.com/gtag/js?
+patch/js/null.js?https://www.googletagmanager.com/gtag/js?
+
+https://yandex.ru/games/sdk/v2
+patch/js/null.js?https://yandex.ru/games/sdk/v2
+
+https://api.codethislab.com/gd/moregames.css
+patch/css/null.css
+
+https://api.codethislab.com/gd/moregames.js
+patch/js/null.js?https://api.codethislab.com/gd/moregames.js
+
+https://gs.eponesh.com/sdk/game-score.js?
+patch/js/eponesh-game-score.js?https://gs.eponesh.com/sdk/game-score.js?
+
+fetchWithProgress=function(e,t){
+fetchWithProgress=function(e,t){if(t.method=="POST"){t.method="GET";e="patch/json/null.json?"+e}

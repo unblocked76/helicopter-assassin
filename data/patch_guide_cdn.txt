@@ -1,0 +1,14 @@
+https://maxcdn.bootstrapcdn.com/bootswatch/4.5.0/cosmo/bootstrap.min.css
+patch/cdn/bootstrap.4.5.0.min.css
+
+https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js
+patch/cdn/bootstrap.4.5.0.bundle.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+patch/cdn/jquery.3.5.1.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css
+patch/cdn/ionicons.2.0.1.min.css
+
+https://use.fontawesome.com/releases/v5.12.0/css/all.css
+patch/cdn/fontawesome.5.12.0.all.css

@@ -1,0 +1,14 @@
+stringify(ptr);location.href=str
+stringify(ptr);location.href==str
+
+http.open(_method,_url,true);
+http.open("GET", "patch/json/null.json?"+ _url,true);
+
+request.open("POST", url, true);
+request.open("GET", "patch/json/null.json?"+ url, true);
+
+(document.URL
+("gamedistribution.com"
+
+UnityLoader.SystemInfo.mobile?
+UnityLoader.SystemInfo.mobile&&1==0?
