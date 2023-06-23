@@ -1,5 +1,0 @@
-/home/runner/helicopter-assassin/public_html/Build/fa989c0b56f3215570f3b6ee155182a1.js
-data/patch_guide_unity.txt
-(document.URL
-("gamedistribution.com"
-

@@ -1,8 +1,0 @@
-.open(r,e,!0)
-.open("GET","patch/json/null.json?"+e,!0)
-
-.Ct(t.url,r).
-.Ct("patch/json/null.json?"+ t.url, r).
-
-body:t.body,method:"POST",
-body:t.body,method:"GET",

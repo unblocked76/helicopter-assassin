@@ -1,3 +1,0 @@
-#BallSortPuzzleNew
-=window['location']['hostname'],
-="www.gamedistribution.com",

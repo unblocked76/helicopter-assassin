@@ -1,7 +1,0 @@
-https://html5.api.gamedistribution.com/libs/gd/api.js
-//html5.api.gamedistribution.com/libs/gd/api.js
-patch/js/gd-api.js
-
-https://html5.api.gamedistribution.com/main.min.js
-//html5.api.gamedistribution.com/main.min.js
-patch/js/gd-main.js
